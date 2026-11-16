@@ -9,7 +9,7 @@ Array, String
 
 ### 🚀 Performance
 - **Runtime:** 1 ms
-- **Memory:** 45.2 MB
+- **Memory:** 44.8 MB
 
 ---
 
