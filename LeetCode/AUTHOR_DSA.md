@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 238 (0.8%)
+- **Completed:** 3 / 238 (1.3%)
 
 ---
 
@@ -171,7 +171,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Senior Citizens Count
 - [ ] Number of Segments in a String
 - [ ] First Occurrence in a String
-- [ ] Shuffle String
+- [x] [Shuffle String](./Java/Easy/1651. Shuffle String/)
 - [ ] Merge Strings Alternately
 - [ ] Fizz Buzz
 - [ ] Number of Strings That Appear as Substrings in Word
